@@ -39,3 +39,13 @@ Hi {{username}},
 
 {{triager}}
 ```
+
+# Donations
+
+If you would like to support my work, you can use any of the addresses below:
+
+**Liberapay:** https://liberapay.com/EdOverflow
+
+**Bitcoin:** `1E2fZRNrrkCKPnWpKZAsJzByBoyoBURADN`
+
+**Ethereum:** `0xe98FC23fB4A8762d700c0354979dA5Db6c29Acc3`
